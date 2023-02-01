@@ -18087,6 +18087,9 @@ img {
         top: -21px;
     }
 }
+#section-about .container .text-lo{
+    text-align: justify !important;
+}
 
 /*
 #purchase-now, #selector, #back-to-top{

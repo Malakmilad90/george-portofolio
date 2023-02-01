@@ -18104,7 +18104,10 @@ img {
 
 }
 #section-about .container .progressbar h4{
-    margin-bottom: 80px;
+   margin-bottom: 80px;
+}
+#section-about .container .progressbar .lol{
+    margin-bottom: 56px;
 }
 
 /*

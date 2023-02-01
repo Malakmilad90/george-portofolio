@@ -6933,11 +6933,13 @@ i.font60 {
 
 .circle canvas {
   vertical-align: middle;
+  width: 150px;
+  height: 150px;
 }
 
 .circle div {
   position: absolute;
-  top: 80px;
+  top: 56px;
   left: 0;
   width: 100%;
   text-align: center;
@@ -18088,7 +18090,7 @@ img {
     }
 }
 #section-about .container .text-lo{
-    text-align: left !important;
+    text-align: justify !important;
 }
 
 /*

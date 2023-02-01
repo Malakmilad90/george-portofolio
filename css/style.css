@@ -6933,13 +6933,13 @@ i.font60 {
 
 .circle canvas {
   vertical-align: middle;
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
 }
 
 .circle div {
   position: absolute;
-  top: 56px;
+  top: 35px;
   left: 0;
   width: 100%;
   text-align: center;
@@ -18104,7 +18104,7 @@ img {
 
 }
 #section-about .container .progressbar h4{
-    margin-bottom: 40px;
+    margin-bottom: 80px;
 }
 
 /*

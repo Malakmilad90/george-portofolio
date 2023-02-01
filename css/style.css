@@ -18092,10 +18092,17 @@ img {
 #section-about .container .text-lo{
     text-align: justify !important;
 }
-
+.img-fluid{
+    filter: grayscale(100%);
+    transition: all .5s;
+}
 .img-fluid:hover{
     transform: scale(1.1);
     cursor: pointer;
+    filter: grayscale(0);
+    transition: all .5s;
+
+
 }
 
 /*

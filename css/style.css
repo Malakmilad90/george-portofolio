@@ -18093,8 +18093,13 @@ img {
     text-align: justify !important;
 }
 
+.img-fluid:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
 /*
 #purchase-now, #selector, #back-to-top{
     display: none;
 }
-*/
+*/ 

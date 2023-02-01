@@ -18102,7 +18102,9 @@ img {
     filter: grayscale(0);
     transition: all .5s;
 
-
+}
+#section-about .container .progressbar h4{
+    margin-bottom: 40px;
 }
 
 /*

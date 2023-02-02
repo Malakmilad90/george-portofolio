@@ -11632,7 +11632,7 @@ body.dark-scheme::-webkit-scrollbar-thumb,.dark-scheme #de_modal::-webkit-scroll
 .de_3d-box {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: left;
   width: 100%;
   background: rgba(34, 34, 34,.0);
   position: relative;
@@ -18110,7 +18110,16 @@ img {
 #section-about .container .progressbar .lol{
     margin-bottom: 80px !important;
 }
-
+/* .what{
+    width: 50px !important;
+}
+.whatif{
+    width: 50px !important;
+    margin-left: 35px;
+}
+.whatiftext{
+    margin-left: 10px !important;
+} */
 /*
 #purchase-now, #selector, #back-to-top{
     display: none;

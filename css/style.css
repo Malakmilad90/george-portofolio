@@ -18095,6 +18095,7 @@ img {
 .img-fluid{
     filter: grayscale(100%);
     transition: all .5s;
+    margin-top: 20px;
 }
 .img-fluid:hover{
     transform: scale(1.1);
@@ -18104,10 +18105,10 @@ img {
 
 }
 #section-about .container .progressbar h4{
-   margin-bottom: 80px !important;
+   margin-bottom: 105px !important;
 }
 #section-about .container .progressbar .lol{
-    margin-bottom: 56px !important;
+    margin-bottom: 80px !important;
 }
 
 /*

@@ -18104,10 +18104,10 @@ img {
 
 }
 #section-about .container .progressbar h4{
-   margin-bottom: 80px;
+   margin-bottom: 80px !important;
 }
 #section-about .container .progressbar .lol{
-    margin-bottom: 56px;
+    margin-bottom: 56px !important;
 }
 
 /*
